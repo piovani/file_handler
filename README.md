@@ -1,1 +1,6 @@
-# file_handler
+# File Handler
+
+Make:
+    - [ ] Init project
+    - [ ] Connection DB (MongoDB)
+    
